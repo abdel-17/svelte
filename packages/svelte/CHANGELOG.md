@@ -1,5 +1,15 @@
 # svelte
 
+## 5.51.0
+
+### Minor Changes
+
+- feat: Use `TrustedTypes` for HTML handling where supported ([#16271](https://github.com/sveltejs/svelte/pull/16271))
+
+### Patch Changes
+
+- fix: sanitize template-literal-special-characters in SSR attribute values ([#17692](https://github.com/sveltejs/svelte/pull/17692))
+
 ## 5.50.3
 
 ### Patch Changes
